@@ -12,6 +12,6 @@ Open your web browser and goto localhost/main_login.php
 
 Use the following username, password credentials to login
 
-'AA' 'AA'
-'BB' 'BB'
+'AA' 'AA' or
+'BB' 'BB' or
 'CC' 'CC'
